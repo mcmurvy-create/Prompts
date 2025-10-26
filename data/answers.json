@@ -1,0 +1,322 @@
+[
+  {
+    "id": "a001",
+    "text": "“KI macht das schon”"
+  },
+  {
+    "id": "a002",
+    "text": "Konfettikanonen im Backlog"
+  },
+  {
+    "id": "a003",
+    "text": "Ein Ticket namens ‘Demnächst™’"
+  },
+  {
+    "id": "a004",
+    "text": "Elf verschiedene Prompt-Vorlagen"
+  },
+  {
+    "id": "a005",
+    "text": "Meetings über Meetings"
+  },
+  {
+    "id": "a006",
+    "text": "Ein GIF in 4K"
+  },
+  {
+    "id": "a007",
+    "text": "Kaffee, der nach Hoffnung schmeckt"
+  },
+  {
+    "id": "a008",
+    "text": "Compliance-konforme Kreativität"
+  },
+  {
+    "id": "a009",
+    "text": "Ein Chatbot mit Burn-out"
+  },
+  {
+    "id": "a010",
+    "text": "Copy-Paste aus Stack Overflow"
+  },
+  {
+    "id": "a011",
+    "text": "Ein Excel mit Gefühlen"
+  },
+  {
+    "id": "a012",
+    "text": "Dark Mode für die Seele"
+  },
+  {
+    "id": "a013",
+    "text": "Ein Prompt mit 500 Wörtern Disclaimer"
+  },
+  {
+    "id": "a014",
+    "text": "Corporate Haikus"
+  },
+  {
+    "id": "a015",
+    "text": "Agile, aber langsamer"
+  },
+  {
+    "id": "a016",
+    "text": "Ein Roadmap-Wheel of Fortune"
+  },
+  {
+    "id": "a017",
+    "text": "PowerPoint-Karaoke"
+  },
+  {
+    "id": "a018",
+    "text": "Ein KPI namens ‘Vibes’"
+  },
+  {
+    "id": "a019",
+    "text": "Der eine unversionierte CSV"
+  },
+  {
+    "id": "a020",
+    "text": "Sicherheits-Policy auf einer Serviette"
+  },
+  {
+    "id": "a021",
+    "text": "Das ominöse ‘bald produktiv’"
+  },
+  {
+    "id": "a022",
+    "text": "Prompt: ‘Bitte sei weniger mittelmäßig’"
+  },
+  {
+    "id": "a023",
+    "text": "Ein Moodboard aus Jira-Screenshots"
+  },
+  {
+    "id": "a024",
+    "text": "Ein Whiteboard ohne Marker"
+  },
+  {
+    "id": "a025",
+    "text": "Dokumentation als Gedicht"
+  },
+  {
+    "id": "a026",
+    "text": "Das WLAN namens ‘PROD’"
+  },
+  {
+    "id": "a027",
+    "text": "Ein Bot, der nur nickt"
+  },
+  {
+    "id": "a028",
+    "text": "Ein Meeting, das ein E-Book wird"
+  },
+  {
+    "id": "a029",
+    "text": "Ein ‘AI Council’ mit drei Buzzwords"
+  },
+  {
+    "id": "a030",
+    "text": "Die Funktion ‘Mehr Mut’"
+  },
+  {
+    "id": "a031",
+    "text": "Ein Entwickler·in mit Laserpointer"
+  },
+  {
+    "id": "a032",
+    "text": "KI, die alles in Comic Sans schreibt"
+  },
+  {
+    "id": "a033",
+    "text": "Stakeholder-Bingo"
+  },
+  {
+    "id": "a034",
+    "text": "Ein Prototyp im PowerPoint"
+  },
+  {
+    "id": "a035",
+    "text": "Roadmap? Einfach ein Meme"
+  },
+  {
+    "id": "a036",
+    "text": "Ein Prompt-Shortcut auf dem Desktop"
+  },
+  {
+    "id": "a037",
+    "text": "Ein Slack-Channel namens #chaos"
+  },
+  {
+    "id": "a038",
+    "text": "Ein NDA in Reimform"
+  },
+  {
+    "id": "a039",
+    "text": "Der Test-User ‘Mama’"
+  },
+  {
+    "id": "a040",
+    "text": "Der Kollege, der ‘KI’ buchstabiert"
+  },
+  {
+    "id": "a041",
+    "text": "Ein ‘LLM’ aus Post-its"
+  },
+  {
+    "id": "a042",
+    "text": "Der Praktikant als CPO"
+  },
+  {
+    "id": "a043",
+    "text": "Ein Budget aus Snack-Gutscheinen"
+  },
+  {
+    "id": "a044",
+    "text": "Ein USB-Stick mit Großmachtfantasien"
+  },
+  {
+    "id": "a045",
+    "text": "Ein Prompt, das sich selbst evaluiert"
+  },
+  {
+    "id": "a046",
+    "text": "Die Policy: ‘Keine Katzen in Prompts’"
+  },
+  {
+    "id": "a047",
+    "text": "Ein Safe-Mode, der alles streicht"
+  },
+  {
+    "id": "a048",
+    "text": "Ein Jira-Filter ‘Glück’"
+  },
+  {
+    "id": "a049",
+    "text": "Ein VPN aus Hoffnung"
+  },
+  {
+    "id": "a050",
+    "text": "Ein Feature, das nur blinkt"
+  },
+  {
+    "id": "a051",
+    "text": "AI-generated Buzzword-Suppe"
+  },
+  {
+    "id": "a052",
+    "text": "Eine API, die Gefühle hat"
+  },
+  {
+    "id": "a053",
+    "text": "Ein Logfile in Versalien"
+  },
+  {
+    "id": "a054",
+    "text": "Die Roadmap als Astrologie"
+  },
+  {
+    "id": "a055",
+    "text": "Pair-Prompting mit dem Hausgeist"
+  },
+  {
+    "id": "a056",
+    "text": "Ein Lizenzschlüssel auf Papier"
+  },
+  {
+    "id": "a057",
+    "text": "Der Button ‘Mach’s schön’"
+  },
+  {
+    "id": "a058",
+    "text": "Ein A/B-Test mit A/A"
+  },
+  {
+    "id": "a059",
+    "text": "Ein Prompt: ‘Bitte überrasch mich’"
+  },
+  {
+    "id": "a060",
+    "text": "Zwei-Faktor mit Kaffeesatz"
+  },
+  {
+    "id": "a061",
+    "text": "Ein Bot, der Urlaub braucht"
+  },
+  {
+    "id": "a062",
+    "text": "Stakeholder-Alignment per Tarot"
+  },
+  {
+    "id": "a063",
+    "text": "Ein Styleguide in Wingdings"
+  },
+  {
+    "id": "a064",
+    "text": "Prompt-Chaos-Engineering"
+  },
+  {
+    "id": "a065",
+    "text": "Ein GIF vom Budget"
+  },
+  {
+    "id": "a066",
+    "text": "Ein Meeting ohne Ende"
+  },
+  {
+    "id": "a067",
+    "text": "Ein Prompt, das rot wird"
+  },
+  {
+    "id": "a068",
+    "text": "Die KI, die Ja sagt"
+  },
+  {
+    "id": "a069",
+    "text": "Ein PowerPoint mit Geräuschen"
+  },
+  {
+    "id": "a070",
+    "text": "Fehlerkultur: höflich ignorieren"
+  },
+  {
+    "id": "a071",
+    "text": "Das Passwort ‘Passwort’"
+  },
+  {
+    "id": "a072",
+    "text": "Eine Metrik namens ‘Aha!’"
+  },
+  {
+    "id": "a073",
+    "text": "Ein Changelog als Drehbuch"
+  },
+  {
+    "id": "a074",
+    "text": "Coffee-driven Development"
+  },
+  {
+    "id": "a075",
+    "text": "Ein “KI-Lab” im Abstellraum"
+  },
+  {
+    "id": "a076",
+    "text": "Der Shortcut STRG+Hoffnung"
+  },
+  {
+    "id": "a077",
+    "text": "Prompt: ‘Mehr Büro-Humor’"
+  },
+  {
+    "id": "a078",
+    "text": "Ein Bot mit Teeküche-Rechten"
+  },
+  {
+    "id": "a079",
+    "text": "Das Whitepaper ohne Seiten"
+  },
+  {
+    "id": "a080",
+    "text": "Ein ‘Smart’ Drucker, der philosophiert"
+  }
+]
